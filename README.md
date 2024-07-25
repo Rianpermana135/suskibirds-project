@@ -44,8 +44,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 Creator
-1. Dindam Darusalam (NIM 206230013)
-2. Rian Permana
+1. Rian Permana
 
 )<p>Program Studi Teknik Industri Pertanian<br>Universitas Linggabuana PGRI Sukabumi</p>
 
