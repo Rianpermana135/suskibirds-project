@@ -51,5 +51,5 @@ Creator
 
 <p>Program Studi Teknik Industri Pertanian<br>Universitas Linggabuana PGRI Sukabumi</p>
 
-If you have any questions or suggestions, feel free to open an issue or contact us at [tip@unlip.ac.id](mailto:your-email@tip@unlip.ac.id).
+If you have any questions or suggestions, feel free to open an issue or contact us at [permanarian135@gmail.com](permanarian135@gmail.com).
 
